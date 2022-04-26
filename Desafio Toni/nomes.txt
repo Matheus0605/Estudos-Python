@@ -1,0 +1,7 @@
+nome;idade;tamanho
+ana;15;1.60
+fimous;21;1.90
+gordo;20;1.65
+amanda;21;1.70
+suzana;18;1.30
+mateus;20;1.75
