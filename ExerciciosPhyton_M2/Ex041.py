@@ -1,12 +1,3 @@
-'''– Até 9 anos: MIRIM
-
-– Até 14 anos: INFANTIL
-
-– Até 19 anos: JÚNIOR
-
-– Até 25 anos: SÊNIOR
-
-– Acima de 25 anos: MASTER'''
 from datetime import datetime
 
 yearNow = datetime.today().year
