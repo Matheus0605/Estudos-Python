@@ -1,6 +1,3 @@
-import imp
-
-
 import math
 catOp = float(input('Comprimento do cateto Oposto: ')) 
 catAd = float(input('Comprimento do cateto Adjacente: '))

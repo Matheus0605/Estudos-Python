@@ -1,6 +1,6 @@
-print('-'*10)
+print('-'*20)
 print('Sequancia de Fibonacci')
-print('-'*10)
+print('-'*20)
 
 termos = int(input('Quantos termos você quer mostrar? '))
 fn1 = 0

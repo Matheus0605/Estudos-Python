@@ -3,6 +3,7 @@ print('-='*15)
 firstT = int(input('Primeiro termo: '))
 razao = int(input('Razao: '))
 decimo = firstT + (10 - 1) * razao
+print (decimo)
 
 print(firstT, end=' -> ')
 while firstT < decimo:
