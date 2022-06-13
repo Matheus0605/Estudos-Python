@@ -1,0 +1,7 @@
+Andre;22
+Vitor;30
+Matheus;20
+Suzana;19
+selena;10
+Eugenia da Masa CLA;65
+Anderson;33
